@@ -1,10 +1,9 @@
 * piggyback-parameters
 
+This is a Common Lisp configuration system that supports local file and database based parameter storage.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/ediethelm/piggyback-parameters.git   |
-| commit  | {"messa  |
-| systems | piggyback-parameters |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/piggyback-parameters.git |
+| commit  | f2ef25f58eab5cd6f325c6b90f5255353b2cd15c                  |
+| systems | piggyback-parameters                                      |
+|---------+-----------------------------------------------------------|
